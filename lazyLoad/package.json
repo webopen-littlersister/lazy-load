@@ -1,0 +1,15 @@
+{
+  "name": "webopen-littlesister-lazyload",
+  "version": "1.0.0",
+  "description": "图片懒加载插件",
+  "main": "index.js",
+  "bin": {
+    "qf666": "bin/utils.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["lazyLoad","JS"],
+  "author": "webopen-littlesister",
+  "license": "ISC"
+}
